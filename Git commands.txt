@@ -1,0 +1,18 @@
+1. Initialize git : git init
+
+
+2. update directory (folder ) information :
+ git fetch
+
+
+3. pull data : 
+git pull
+4. Create branch locally  : 
+
+git checkout -b master
+5. Switch branch if exist : 
+
+git checkout <branchname>
+6. Add (stage ) all changes to local branch : git add .
+7. commit all changes : git commit -m "message to commit file"
+8. Push changes to remote branch : git push
